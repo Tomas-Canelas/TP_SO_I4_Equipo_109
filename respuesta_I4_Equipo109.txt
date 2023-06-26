@@ -6,4 +6,9 @@ A- En TESTING tiene color blue
 B- En DESARROLLO tiene color yellow
 C- En main tiene color blue
 D- En el main quedo el favicon de ALFA
-
+---------------------------------------------------------
+E- Si, BETA y GAMMA tuvieron problemas
+F- Al intentar hacer el push, nos pedia actualizar el repositorio local.
+G- realizamos un fetch, luego un merge y solucionamos los conflictos dentro del archivo. Luego realizamos el push correctamente. La consecuencia fue tener que editar el archivo manualmente en el orden que correspondian los <p>
+H- Si cada uno utilizara el push -f, quedarian los datos de GAMMA ya que pisarian los datos anteriores y fue el ultimo en realizar el push
+I- Deberiamos pararnos en la rama DESARROLLO y realizar un merge de la rama TESTING
