@@ -1,0 +1,9 @@
+ALFA: Acquisto Franco
+BETA: San Sebastian Julian
+GAMMA: Canelas Tomas
+
+A- En TESTING tiene color blue
+B- En DESARROLLO tiene color yellow
+C- En main tiene color blue
+D- En el main quedo el favicon de ALFA
+
